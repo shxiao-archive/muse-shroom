@@ -22,9 +22,9 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/Shxiao101/Muse-shroom"
-Issues = "https://github.com/Shxiao101/Muse-shroom/issues"
-Changelog = "https://github.com/Shxiao101/Muse-shroom/blob/main/CHANGELOG.md"
+Homepage = "https://github.com/shxiao-archive/muse-shroom"
+Issues = "https://github.com/shxiao-archive/muse-shroom/issues"
+Changelog = "https://github.com/shxiao-archive/muse-shroom/blob/main/CHANGELOG.md"
 
 [project.optional-dependencies]
 mcp = ["mcp>=2.0.0,<3"]

@@ -24,7 +24,7 @@ Python 3.10+，以及一个支持 MCP 的宿主 Agent。
 ## 安装与登录
 
 ```console
-pipx install "muse-shroom[mcp] @ git+https://github.com/Shxiao101/Muse-shroom"
+pipx install "muse-shroom[mcp] @ git+https://github.com/shxiao-archive/muse-shroom"
 muse-shroom auth login
 muse-shroom doctor
 ```
